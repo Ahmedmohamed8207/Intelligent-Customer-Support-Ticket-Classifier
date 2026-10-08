@@ -4,9 +4,9 @@ A Graduation Project at the Digital Egypt Pioneers Initiative (DEPI) · Track: M
 
 ## Project Overview
 
-Customer support teams receive thousands of tickets daily, and categorizing them manually into departments or issue types is slow and inconsistent[cite: 7]. 
+Customer support teams receive thousands of tickets daily, and categorizing them manually into departments or issue types is slow and inconsistent. 
 
-This project aims to build an end-to-end NLP classification system that automatically assigns incoming customer support tickets to predefined categories and routes them efficiently[cite: 7].
+This project aims to build an end-to-end NLP classification system that automatically assigns incoming customer support tickets to predefined categories and routes them efficiently.
 
 ### Scope & Workflow
 * **Text Preprocessing:** Cleaning ticket text using regex, tokenization, stop-word removal, and lemmatization[cite: 7].
